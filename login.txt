@@ -1,1 +1,3 @@
 正在编写login程序，我需要在公共tool.txt中，添加一个函数。
+
+mytest函数
